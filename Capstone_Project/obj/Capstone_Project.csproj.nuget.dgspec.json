@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wajaa\\source\\repos\\Capstone_Project\\Capstone_Project\\Capstone_Project.csproj": {}
+    "C:\\Users\\HAdams20\\source\\repos\\Capstone_Project\\Capstone_Project\\Capstone_Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wajaa\\source\\repos\\Capstone_Project\\Capstone_Project\\Capstone_Project.csproj": {
+    "C:\\Users\\HAdams20\\source\\repos\\Capstone_Project\\Capstone_Project\\Capstone_Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wajaa\\source\\repos\\Capstone_Project\\Capstone_Project\\Capstone_Project.csproj",
+        "projectUniqueName": "C:\\Users\\HAdams20\\source\\repos\\Capstone_Project\\Capstone_Project\\Capstone_Project.csproj",
         "projectName": "Capstone_Project",
-        "projectPath": "C:\\Users\\wajaa\\source\\repos\\Capstone_Project\\Capstone_Project\\Capstone_Project.csproj",
-        "packagesPath": "C:\\Users\\wajaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wajaa\\source\\repos\\Capstone_Project\\Capstone_Project\\obj\\",
+        "projectPath": "C:\\Users\\HAdams20\\source\\repos\\Capstone_Project\\Capstone_Project\\Capstone_Project.csproj",
+        "packagesPath": "C:\\Users\\HAdams20\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HAdams20\\source\\repos\\Capstone_Project\\Capstone_Project\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\wajaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HAdams20\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
